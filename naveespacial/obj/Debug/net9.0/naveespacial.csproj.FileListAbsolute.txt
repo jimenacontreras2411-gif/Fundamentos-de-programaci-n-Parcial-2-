@@ -1,0 +1,14 @@
+C:\Users\jimen\RiderProjects\FDP P2\naveespacial\obj\Debug\net9.0\naveespacial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimen\RiderProjects\FDP P2\naveespacial\obj\Debug\net9.0\naveespacial.AssemblyInfoInputs.cache
+C:\Users\jimen\RiderProjects\FDP P2\naveespacial\obj\Debug\net9.0\naveespacial.AssemblyInfo.cs
+C:\Users\jimen\RiderProjects\FDP P2\naveespacial\obj\Debug\net9.0\naveespacial.csproj.CoreCompileInputs.cache
+C:\Users\jimen\RiderProjects\FDP P2\naveespacial\bin\Debug\net9.0\naveespacial.exe
+C:\Users\jimen\RiderProjects\FDP P2\naveespacial\bin\Debug\net9.0\naveespacial.deps.json
+C:\Users\jimen\RiderProjects\FDP P2\naveespacial\bin\Debug\net9.0\naveespacial.runtimeconfig.json
+C:\Users\jimen\RiderProjects\FDP P2\naveespacial\bin\Debug\net9.0\naveespacial.dll
+C:\Users\jimen\RiderProjects\FDP P2\naveespacial\bin\Debug\net9.0\naveespacial.pdb
+C:\Users\jimen\RiderProjects\FDP P2\naveespacial\obj\Debug\net9.0\naveespacial.dll
+C:\Users\jimen\RiderProjects\FDP P2\naveespacial\obj\Debug\net9.0\refint\naveespacial.dll
+C:\Users\jimen\RiderProjects\FDP P2\naveespacial\obj\Debug\net9.0\naveespacial.pdb
+C:\Users\jimen\RiderProjects\FDP P2\naveespacial\obj\Debug\net9.0\naveespacial.genruntimeconfig.cache
+C:\Users\jimen\RiderProjects\FDP P2\naveespacial\obj\Debug\net9.0\ref\naveespacial.dll

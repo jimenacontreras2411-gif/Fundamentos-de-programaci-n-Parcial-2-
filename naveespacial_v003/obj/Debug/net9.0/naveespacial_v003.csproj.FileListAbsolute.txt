@@ -1,0 +1,4 @@
+C:\Users\jimen\RiderProjects\FDP P2\naveespacial_v003\obj\Debug\net9.0\naveespacial_v003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimen\RiderProjects\FDP P2\naveespacial_v003\obj\Debug\net9.0\naveespacial_v003.AssemblyInfoInputs.cache
+C:\Users\jimen\RiderProjects\FDP P2\naveespacial_v003\obj\Debug\net9.0\naveespacial_v003.AssemblyInfo.cs
+C:\Users\jimen\RiderProjects\FDP P2\naveespacial_v003\obj\Debug\net9.0\naveespacial_v003.csproj.CoreCompileInputs.cache
