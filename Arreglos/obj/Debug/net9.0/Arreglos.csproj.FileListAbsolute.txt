@@ -1,0 +1,15 @@
+C:\Users\jimen\RiderProjects\FDP P2\Arreglos\bin\Debug\net9.0\Arreglos.exe
+C:\Users\jimen\RiderProjects\FDP P2\Arreglos\bin\Debug\net9.0\Arreglos.deps.json
+C:\Users\jimen\RiderProjects\FDP P2\Arreglos\bin\Debug\net9.0\Arreglos.runtimeconfig.json
+C:\Users\jimen\RiderProjects\FDP P2\Arreglos\bin\Debug\net9.0\Arreglos.dll
+C:\Users\jimen\RiderProjects\FDP P2\Arreglos\bin\Debug\net9.0\Arreglos.pdb
+C:\Users\jimen\RiderProjects\FDP P2\Arreglos\obj\Debug\net9.0\Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimen\RiderProjects\FDP P2\Arreglos\obj\Debug\net9.0\Arreglos.AssemblyInfoInputs.cache
+C:\Users\jimen\RiderProjects\FDP P2\Arreglos\obj\Debug\net9.0\Arreglos.AssemblyInfo.cs
+C:\Users\jimen\RiderProjects\FDP P2\Arreglos\obj\Debug\net9.0\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\jimen\RiderProjects\FDP P2\Arreglos\obj\Debug\net9.0\Arreglos.sourcelink.json
+C:\Users\jimen\RiderProjects\FDP P2\Arreglos\obj\Debug\net9.0\Arreglos.dll
+C:\Users\jimen\RiderProjects\FDP P2\Arreglos\obj\Debug\net9.0\refint\Arreglos.dll
+C:\Users\jimen\RiderProjects\FDP P2\Arreglos\obj\Debug\net9.0\Arreglos.pdb
+C:\Users\jimen\RiderProjects\FDP P2\Arreglos\obj\Debug\net9.0\Arreglos.genruntimeconfig.cache
+C:\Users\jimen\RiderProjects\FDP P2\Arreglos\obj\Debug\net9.0\ref\Arreglos.dll
