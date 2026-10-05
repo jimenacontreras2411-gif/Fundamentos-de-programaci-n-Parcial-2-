@@ -1,0 +1,14 @@
+C:\Users\jimen\RiderProjects\FDP P2\naveespacialtarea\obj\Debug\net9.0\naveespacialtarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimen\RiderProjects\FDP P2\naveespacialtarea\obj\Debug\net9.0\naveespacialtarea.AssemblyInfoInputs.cache
+C:\Users\jimen\RiderProjects\FDP P2\naveespacialtarea\obj\Debug\net9.0\naveespacialtarea.AssemblyInfo.cs
+C:\Users\jimen\RiderProjects\FDP P2\naveespacialtarea\obj\Debug\net9.0\naveespacialtarea.csproj.CoreCompileInputs.cache
+C:\Users\jimen\RiderProjects\FDP P2\naveespacialtarea\bin\Debug\net9.0\naveespacialtarea.exe
+C:\Users\jimen\RiderProjects\FDP P2\naveespacialtarea\bin\Debug\net9.0\naveespacialtarea.deps.json
+C:\Users\jimen\RiderProjects\FDP P2\naveespacialtarea\bin\Debug\net9.0\naveespacialtarea.runtimeconfig.json
+C:\Users\jimen\RiderProjects\FDP P2\naveespacialtarea\bin\Debug\net9.0\naveespacialtarea.dll
+C:\Users\jimen\RiderProjects\FDP P2\naveespacialtarea\bin\Debug\net9.0\naveespacialtarea.pdb
+C:\Users\jimen\RiderProjects\FDP P2\naveespacialtarea\obj\Debug\net9.0\naveespacialtarea.dll
+C:\Users\jimen\RiderProjects\FDP P2\naveespacialtarea\obj\Debug\net9.0\refint\naveespacialtarea.dll
+C:\Users\jimen\RiderProjects\FDP P2\naveespacialtarea\obj\Debug\net9.0\naveespacialtarea.pdb
+C:\Users\jimen\RiderProjects\FDP P2\naveespacialtarea\obj\Debug\net9.0\naveespacialtarea.genruntimeconfig.cache
+C:\Users\jimen\RiderProjects\FDP P2\naveespacialtarea\obj\Debug\net9.0\ref\naveespacialtarea.dll

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("naveespacial_v003")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("naveespacialtarea")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48362ce5c0dc1a92b32144ad79fb7964357c4e33")]
-[assembly: System.Reflection.AssemblyProductAttribute("naveespacial_v003")]
-[assembly: System.Reflection.AssemblyTitleAttribute("naveespacial_v003")]
+[assembly: System.Reflection.AssemblyProductAttribute("naveespacialtarea")]
+[assembly: System.Reflection.AssemblyTitleAttribute("naveespacialtarea")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
