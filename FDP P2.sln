@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "naveespacial_v003", "navees
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "naveespacialtarea", "naveespacialtarea\naveespacialtarea.csproj", "{A68B1BA1-B35D-4C9A-A52A-4627A64CFA9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arreglos", "Arreglos\Arreglos.csproj", "{2540897B-2E46-4CED-9686-6CEAE5939DBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{A68B1BA1-B35D-4C9A-A52A-4627A64CFA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A68B1BA1-B35D-4C9A-A52A-4627A64CFA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A68B1BA1-B35D-4C9A-A52A-4627A64CFA9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2540897B-2E46-4CED-9686-6CEAE5939DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2540897B-2E46-4CED-9686-6CEAE5939DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2540897B-2E46-4CED-9686-6CEAE5939DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2540897B-2E46-4CED-9686-6CEAE5939DBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
