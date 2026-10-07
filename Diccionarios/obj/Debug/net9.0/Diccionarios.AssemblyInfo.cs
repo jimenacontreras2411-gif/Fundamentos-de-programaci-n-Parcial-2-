@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("naveespacial_v002")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Diccionarios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e9616bcf7189269d70df405ecfdc70d04147963")]
-[assembly: System.Reflection.AssemblyProductAttribute("naveespacial_v002")]
-[assembly: System.Reflection.AssemblyTitleAttribute("naveespacial_v002")]
+[assembly: System.Reflection.AssemblyProductAttribute("Diccionarios")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Diccionarios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
