@@ -5,21 +5,41 @@
                                     { "Hacha", 35 },
                                 };
 
+
 Console.WriteLine(items["Espada"]);
 Console.WriteLine(items["Hacha"]);
+
 
 items["Arco"] = 20;
 
 Console.WriteLine(items["Arco"]);
 
-if(items.ContainsKey("Hoz")) {
-    Console.WriteLine("DMG Hoz: " + items["Hoz"]);
+if (items.ContainsKey ("Arco")== false )
+{
+    items.Add ("Arco",30);
 }
 
-if(items.TryGetValue("Hacha", out int dmg))
+if (items.ContainsKey("Cuchillo", 70)==false)
+{
+    items.Add ("Cuchillo",70);
+}
+
+
+
+if(items.TryGetValue("Hoz", out int dmgHoz)==true)
+{
+    Console.WriteLine($"DMG Hoz: {dmgHoz}");
+}
+
+if(items.ContainsKey("Hacha", out int dmg))
 {
     Console.WriteLine($"DMG hacha: {dmg}");
 }
+
+items.Clear ();
+items.Add("Espada", 4);
+
+
 
 Console.WriteLine(items.Count);
 
