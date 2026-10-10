@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jimen\\RiderProjects\\FDP P2\\miniejercicio\\miniejercicio.csproj",
+      "projectUniqueName": "C:\\Users\\jimen\\RiderProjects\\Fundamentos-de-programaci-n-Parcial-2-\\miniejercicio\\miniejercicio.csproj",
       "projectName": "miniejercicio",
-      "projectPath": "C:\\Users\\jimen\\RiderProjects\\FDP P2\\miniejercicio\\miniejercicio.csproj",
+      "projectPath": "C:\\Users\\jimen\\RiderProjects\\Fundamentos-de-programaci-n-Parcial-2-\\miniejercicio\\miniejercicio.csproj",
       "packagesPath": "C:\\Users\\jimen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jimen\\RiderProjects\\FDP P2\\miniejercicio\\obj\\",
+      "outputPath": "C:\\Users\\jimen\\RiderProjects\\Fundamentos-de-programaci-n-Parcial-2-\\miniejercicio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jimen\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\jimen\\.dotnet\\sdk\\9.0.316/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\jimen\\.dotnet\\sdk\\9.0.318/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

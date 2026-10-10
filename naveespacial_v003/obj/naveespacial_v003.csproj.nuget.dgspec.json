@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jimen\\RiderProjects\\FDP P2\\naveespacial_v003\\naveespacial_v003.csproj": {}
+    "C:\\Users\\jimen\\RiderProjects\\Fundamentos-de-programaci-n-Parcial-2-\\naveespacial_v003\\naveespacial_v003.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jimen\\RiderProjects\\FDP P2\\naveespacial_v003\\naveespacial_v003.csproj": {
+    "C:\\Users\\jimen\\RiderProjects\\Fundamentos-de-programaci-n-Parcial-2-\\naveespacial_v003\\naveespacial_v003.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jimen\\RiderProjects\\FDP P2\\naveespacial_v003\\naveespacial_v003.csproj",
+        "projectUniqueName": "C:\\Users\\jimen\\RiderProjects\\Fundamentos-de-programaci-n-Parcial-2-\\naveespacial_v003\\naveespacial_v003.csproj",
         "projectName": "naveespacial_v003",
-        "projectPath": "C:\\Users\\jimen\\RiderProjects\\FDP P2\\naveespacial_v003\\naveespacial_v003.csproj",
+        "projectPath": "C:\\Users\\jimen\\RiderProjects\\Fundamentos-de-programaci-n-Parcial-2-\\naveespacial_v003\\naveespacial_v003.csproj",
         "packagesPath": "C:\\Users\\jimen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jimen\\RiderProjects\\FDP P2\\naveespacial_v003\\obj\\",
+        "outputPath": "C:\\Users\\jimen\\RiderProjects\\Fundamentos-de-programaci-n-Parcial-2-\\naveespacial_v003\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jimen\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\jimen\\.dotnet\\sdk\\9.0.316/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\jimen\\.dotnet\\sdk\\9.0.318/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
