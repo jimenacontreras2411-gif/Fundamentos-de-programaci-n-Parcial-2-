@@ -1,0 +1,15 @@
+C:\Users\jimen\RiderProjects\Fundamentos-de-programaci-n-Parcial-2-\miniEjerciciosArreglos\bin\Debug\net9.0\miniEjerciciosArreglos.exe
+C:\Users\jimen\RiderProjects\Fundamentos-de-programaci-n-Parcial-2-\miniEjerciciosArreglos\bin\Debug\net9.0\miniEjerciciosArreglos.deps.json
+C:\Users\jimen\RiderProjects\Fundamentos-de-programaci-n-Parcial-2-\miniEjerciciosArreglos\bin\Debug\net9.0\miniEjerciciosArreglos.runtimeconfig.json
+C:\Users\jimen\RiderProjects\Fundamentos-de-programaci-n-Parcial-2-\miniEjerciciosArreglos\bin\Debug\net9.0\miniEjerciciosArreglos.dll
+C:\Users\jimen\RiderProjects\Fundamentos-de-programaci-n-Parcial-2-\miniEjerciciosArreglos\bin\Debug\net9.0\miniEjerciciosArreglos.pdb
+C:\Users\jimen\RiderProjects\Fundamentos-de-programaci-n-Parcial-2-\miniEjerciciosArreglos\obj\Debug\net9.0\miniEjerciciosArreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimen\RiderProjects\Fundamentos-de-programaci-n-Parcial-2-\miniEjerciciosArreglos\obj\Debug\net9.0\miniEjerciciosArreglos.AssemblyInfoInputs.cache
+C:\Users\jimen\RiderProjects\Fundamentos-de-programaci-n-Parcial-2-\miniEjerciciosArreglos\obj\Debug\net9.0\miniEjerciciosArreglos.AssemblyInfo.cs
+C:\Users\jimen\RiderProjects\Fundamentos-de-programaci-n-Parcial-2-\miniEjerciciosArreglos\obj\Debug\net9.0\miniEjerciciosArreglos.csproj.CoreCompileInputs.cache
+C:\Users\jimen\RiderProjects\Fundamentos-de-programaci-n-Parcial-2-\miniEjerciciosArreglos\obj\Debug\net9.0\miniEjerciciosArreglos.sourcelink.json
+C:\Users\jimen\RiderProjects\Fundamentos-de-programaci-n-Parcial-2-\miniEjerciciosArreglos\obj\Debug\net9.0\miniEjerciciosArreglos.dll
+C:\Users\jimen\RiderProjects\Fundamentos-de-programaci-n-Parcial-2-\miniEjerciciosArreglos\obj\Debug\net9.0\refint\miniEjerciciosArreglos.dll
+C:\Users\jimen\RiderProjects\Fundamentos-de-programaci-n-Parcial-2-\miniEjerciciosArreglos\obj\Debug\net9.0\miniEjerciciosArreglos.pdb
+C:\Users\jimen\RiderProjects\Fundamentos-de-programaci-n-Parcial-2-\miniEjerciciosArreglos\obj\Debug\net9.0\miniEjerciciosArreglos.genruntimeconfig.cache
+C:\Users\jimen\RiderProjects\Fundamentos-de-programaci-n-Parcial-2-\miniEjerciciosArreglos\obj\Debug\net9.0\ref\miniEjerciciosArreglos.dll
