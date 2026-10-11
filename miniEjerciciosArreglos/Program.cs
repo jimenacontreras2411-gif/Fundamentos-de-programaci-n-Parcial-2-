@@ -23,6 +23,8 @@
       Console.WriteLine(j1);
   }
   
+  Console.WriteLine("\n\n\n");
+  
 // Micro-ejercicio #2
   //Genera un programa que administre los enemigos activos de una zona. Muestra el estado en cada paso:
   //1. Slime, Globlin, Skeleton
@@ -31,3 +33,45 @@
   //4. Aparece Orc
   //5. Muere Orc
   //¿Arreglo o lista?:Lista
+
+  List<string> enemigos = new List<string>()
+  {
+      "Slime", "Globlin", "Skeleton"
+  };
+  Console.WriteLine ($"Capacity: {enemigos.Capacity}");
+  Console.WriteLine ($"Count: {enemigos.Count}"); 
+  
+    Console.WriteLine("\n");
+    
+  enemigos.Add ("Orc");
+for (int i = 0 ; i <enemigos.Count; i++)
+{
+    Console.WriteLine ($"{i}: {enemigos[i]}");
+}
+
+    Console.WriteLine("\n");
+    
+enemigos.Remove ("Slime");
+for (int i = 0 ; i <enemigos.Count; i++)
+{
+    Console.WriteLine ($"{i}: {enemigos[i]}");
+}
+
+    Console.WriteLine("\n");
+    
+  enemigos.Add ("Orc");
+for (int i = 0 ; i <enemigos.Count; i++)
+{
+    Console.WriteLine ($"{i}: {enemigos[i]}");
+}
+
+    Console.WriteLine("\n");
+    
+enemigos.Remove ("Orc");
+for (int i = 0 ; i <enemigos.Count; i++)
+{
+    Console.WriteLine ($"{i}: {enemigos[i]}");
+}
+
+
+  
